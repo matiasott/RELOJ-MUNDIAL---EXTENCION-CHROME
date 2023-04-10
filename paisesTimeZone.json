@@ -1,0 +1,1273 @@
+{
+    "ad": {
+        "nombre": "Andorra",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Andorra"
+    },
+    "ae": {
+        "nombre": "Emiratos Árabes Unidos",
+        "zonaHoraria": "GST",
+        "timezone": "Asia/Dubai"
+    },
+    "af": {
+        "nombre": "Afganistán",
+        "zonaHoraria": "AFT",
+        "timezone": "Asia/Kabul"
+    },
+    "ag": {
+        "nombre": "Antigua y Barbuda",
+        "zonaHoraria": "AST",
+        "timezone": "America/Antigua"
+    },
+    "ai": {
+        "nombre": "Anguila",
+        "zonaHoraria": "AST",
+        "timezone": "America/Anguilla"
+    },
+    "al": {
+        "nombre": "Albania",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Tirane"
+    },
+    "am": {
+        "nombre": "Armenia",
+        "zonaHoraria": "AMT",
+        "timezone": "Asia/Yerevan"
+    },
+    "ao": {
+        "nombre": "Angola",
+        "zonaHoraria": "WAT",
+        "timezone": "Africa/Luanda"
+    },
+    "aq": {
+        "nombre": "Antártida",
+        "zonaHoraria": "GMT",
+        "timezone": "Antarctica/Casey"
+    },
+    "ar": {
+        "nombre": "Argentina",
+        "zonaHoraria": "ART",
+        "timezone": "America/Argentina/Buenos_Aires"
+    },
+    "as": {
+        "nombre": "Samoa Americana",
+        "zonaHoraria": "SST",
+        "timezone": "Pacific/Pago_Pago"
+    },
+    "at": {
+        "nombre": "Austria",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Vienna"
+    },
+    "au": {
+        "nombre": "Australia",
+        "zonaHoraria": "AEST",
+        "timezone": "Australia/Sydney"
+    },
+    "aw": {
+        "nombre": "Aruba",
+        "zonaHoraria": "AST",
+        "timezone": "America/Aruba"
+    },
+    "ax": {
+        "nombre": "Åland",
+        "zonaHoraria": "EET",
+        "timezone": "Europe/Mariehamn"
+    },
+    "az": {
+        "nombre": "Azerbaiyán",
+        "zonaHoraria": "AZT",
+        "timezone": "Asia/Baku"
+    },
+    "ba": {
+        "nombre": "Bosnia y Herzegovina",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Sarajevo"
+    },
+    "bb": {
+        "nombre": "Barbados",
+        "zonaHoraria": "AST",
+        "timezone": "America/Barbados"
+    },
+    "bd": {
+        "nombre": "Bangladesh",
+        "zonaHoraria": "BDT",
+        "timezone": "Asia/Dhaka"
+    },
+    "be": {
+        "nombre": "Bélgica",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Brussels"
+    },    
+    "bf": {
+        "nombre": "Burkina Faso",
+        "zonaHoraria": "GMT",
+        "timezone": "Africa/Ouagadougou"
+    },
+    "bg": {
+        "nombre": "Bulgaria",
+        "zonaHoraria": "EET",
+        "timezone": "Europe/Sofia"
+    },
+    "bh": {
+        "nombre": "Baréin",
+        "zonaHoraria": "AST",
+        "timezone": "Asia/Bahrain"
+    },
+    "bi": {
+        "nombre": "Burundi",
+        "zonaHoraria": "CAT",
+        "timezone": "Africa/Bujumbura"
+    },
+    "bj": {
+        "nombre": "Benín",
+        "zonaHoraria": "WAT",
+        "timezone": "Africa/Porto-Novo"
+    },
+    "bl": {
+        "nombre": "San Bartolomé",
+        "zonaHoraria": "AST",
+        "timezone": "America/St_Barthelemy"
+    },
+    "bm": {
+        "nombre": "Bermudas",
+        "zonaHoraria": "AST",
+        "timezone": "Atlantic/Bermuda"
+    },
+    "bn": {
+        "nombre": "Brunéi",
+        "zonaHoraria": "BNT",
+        "timezone": "Asia/Brunei"
+    },
+    "bo": {
+        "nombre": "Bolivia",
+        "zonaHoraria": "BOT",
+        "timezone": "America/La_Paz"
+    },
+    "bq": {
+        "nombre": "Caribe Neerlandés",
+        "zonaHoraria": "AST",
+        "timezone": "America/Kralendijk"
+    },
+    "br": {
+        "nombre": "Brasil",
+        "zonaHoraria": "BRT",
+        "timezone": "America/Sao_Paulo"
+    },
+    "bs": {
+        "nombre": "Bahamas",
+        "zonaHoraria": "EST",
+        "timezone": "America/Nassau"
+    },
+    "bt": {
+        "nombre": "Bután",
+        "zonaHoraria": "BTT",
+        "timezone": "Asia/Thimphu"
+    },
+    "bv": {
+        "nombre": "Isla Bouvet",
+        "zonaHoraria": "CET",
+        "timezone": "Antarctica/Bouvet"
+    },
+    "bw": {
+        "nombre": "Botsuana",
+        "zonaHoraria": "CAT",
+        "timezone": "Africa/Gaborone"
+    },
+    "by": {
+        "nombre": "Bielorrusia",
+        "zonaHoraria": "EET",
+        "timezone": "Europe/Minsk"
+    },
+    "bz": {
+        "nombre": "Belice",
+        "zonaHoraria": "CST",
+        "timezone": "America/Belize"
+    },
+    "ca": {
+        "nombre": "Canadá",
+        "zonaHoraria": "PST",
+        "timezone": "America/Vancouver"
+    },
+    "cc": {
+        "nombre": "Islas Cocos",
+        "zonaHoraria": "CCT",
+        "timezone": "Indian/Cocos"
+    },
+    "cd": {
+        "nombre": "Congo (Rep. Dem.)",
+        "zonaHoraria": "CAT",
+        "timezone": "Africa/Kinshasa"
+    },
+    "cf": {
+        "nombre": "República Centroafricana",
+        "zonaHoraria": "WAT",
+        "timezone": "Africa/Bangui"
+    },
+    "cg": {
+        "nombre": "Congo",
+        "zonaHoraria": "WAT",
+        "timezone": "Africa/Brazzaville"
+    },
+    "ch": {
+        "nombre": "Suiza",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Zurich"
+    },
+    "ci": {
+        "nombre": "Costa de Marfil",
+        "zonaHoraria": "GMT",
+        "timezone": "Africa/Abidjan"
+    },
+    "ck": {
+        "nombre": "Islas Cook",
+        "zonaHoraria": "CKT",
+        "timezone": "Pacific/Rarotonga"
+    },
+    "cl": {
+        "nombre": "Chile",
+        "zonaHoraria": "CLT",
+        "timezone": "America/Santiago"
+    },
+    "cm": {
+        "nombre": "Camerún",
+        "zonaHoraria": "WAT",
+        "timezone": "Africa/Douala"
+    },
+    "cn": {
+        "nombre": "China",
+        "zonaHoraria": "CST",
+        "timezone": "Asia/Shanghai"
+    },
+    "co": {
+        "nombre": "Colombia",
+        "zonaHoraria": "COT",
+        "timezone": "America/Bogota"
+    },
+    "cr": {
+        "nombre": "Costa Rica",
+        "zonaHoraria": "CST",
+        "timezone": "America/Costa_Rica"
+    },
+    "cu": {
+        "nombre": "Cuba",
+        "zonaHoraria": "CST",
+        "timezone": "America/Havana"
+    },
+    "cv": {
+        "nombre": "Cabo Verde",
+        "zonaHoraria": "CVT",
+        "timezone": "Atlantic/Cape_Verde"
+    },
+    "cw": {
+        "nombre": "Curazao",
+        "zonaHoraria": "AST",
+        "timezone": "America/Curacao"
+    },
+    "cx": {
+        "nombre": "Isla de Navidad",
+        "zonaHoraria": "CXT",
+        "timezone": "Indian/Christmas"
+    },
+    "cy": {
+        "nombre": "Chipre",
+        "zonaHoraria": "EET",
+        "timezone": "Asia/Nicosia"
+    },"cz": {
+        "nombre": "República Checa",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Prague"
+    },
+    "de": {
+        "nombre": "Alemania",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Berlin"
+    },
+    "dj": {
+        "nombre": "Yibuti",
+        "zonaHoraria": "EAT",
+        "timezone": "Africa/Djibouti"
+    },
+    "dk": {
+        "nombre": "Dinamarca",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Copenhagen"
+    },
+    "dm": {
+        "nombre": "Dominica",
+        "zonaHoraria": "AST",
+        "timezone": "America/Dominica"
+    },
+    "do": {
+        "nombre": "República Dominicana",
+        "zonaHoraria": "AST",
+        "timezone": "America/Santo_Domingo"
+    },
+    "dz": {
+        "nombre": "Argelia",
+        "zonaHoraria": "CET",
+        "timezone": "Africa/Algiers"
+    },
+    "ec": {
+        "nombre": "Ecuador",
+        "zonaHoraria": "ECT",
+        "timezone": "America/Guayaquil"
+    },
+    "ee": {
+        "nombre": "Estonia",
+        "zonaHoraria": "EET",
+        "timezone": "Europe/Tallinn"
+    },
+    "eg": {
+        "nombre": "Egipto",
+        "zonaHoraria": "EET",
+        "timezone": "Africa/Cairo"
+    },
+    "eh": {
+        "nombre": "Sahara Occidental",
+        "zonaHoraria": "WET",
+        "timezone": "Africa/El_Aaiun"
+    },
+    "er": {
+        "nombre": "Eritrea",
+        "zonaHoraria": "EAT",
+        "timezone": "Africa/Asmara"
+    },
+    "es": {
+        "nombre": "España",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Madrid"
+    },
+    "et": {
+        "nombre": "Etiopía",
+        "zonaHoraria": "EAT",
+        "timezone": "Africa/Addis_Ababa"
+    },
+    "eu": {
+        "nombre": "Unión Europea",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Brussels"
+    },
+    "fi": {
+        "nombre": "Finlandia",
+        "zonaHoraria": "EET",
+        "timezone": "Europe/Helsinki"
+    },
+    "fj": {
+        "nombre": "Fiyi",
+        "zonaHoraria": "FJT",
+        "timezone": "Pacific/Fiji"
+    },
+    "fk": {
+        "nombre": "Islas Malvinas",
+        "zonaHoraria": "FKT",
+        "timezone": "Atlantic/Stanley"
+    },
+    "fm": {
+        "nombre": "Micronesia",
+        "zonaHoraria": "ChST",
+        "timezone": "Pacific/Chuuk"
+    },
+    "fo": {
+        "nombre": "Islas Feroe",
+        "zonaHoraria": "WET",
+        "timezone": "Atlantic/Faroe"
+    },
+    "fr": {
+        "nombre": "Francia",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Paris"
+    },
+    "ga": {
+        "nombre": "Gabón",
+        "zonaHoraria": "WAT",
+        "timezone": "Africa/Libreville"
+    },
+    "gb": {
+        "nombre": "Reino Unido",
+        "zonaHoraria": "GMT",
+        "timezone": "Europe/London"
+    },
+    "gb-eng": {
+        "nombre": "Inglaterra",
+        "zonaHoraria": "GMT",
+        "timezone": "Europe/London"
+    },
+    "gb-nir": {
+        "nombre": "Irlanda del Norte",
+        "zonaHoraria": "GMT",
+        "timezone": "Europe/Belfast"
+    },
+    "gb-sct": {
+        "nombre": "Escocia",
+        "zonaHoraria": "GMT",
+        "timezone": "Europe/London"
+    },
+    "gb-wls": {
+        "nombre": "Gales",
+        "zonaHoraria": "GMT",
+        "timezone": "Europe/London"
+    },
+    "gd": {
+        "nombre": "Granada",
+        "zonaHoraria": "AST",
+        "timezone": "America/Grenada"
+    },
+    "ge": {
+        "nombre": "Georgia",
+        "zonaHoraria": "GET",
+        "timezone": "Asia/Tbilisi"
+    },
+    "gf": {
+        "nombre": "Guayana Francesa",
+        "zonaHoraria": "GFT",
+        "timezone": "America/Cayenne"
+    },
+    "gg": {
+        "nombre": "Guernsey",
+        "zonaHoraria": "GMT",
+        "timezone": "Europe/Guernsey"
+    },
+    "gh": {
+        "nombre": "Ghana",
+        "zonaHoraria": "GMT",
+        "timezone": "Africa/Accra"
+    },
+    "gi": {
+        "nombre": "Gibraltar",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Gibraltar"
+    },
+    "gl": {
+        "nombre": "Groenlandia",
+        "zonaHoraria": "WGT",
+        "timezone": "America/Godthab"
+    },
+    "gm": {
+        "nombre": "Gambia",
+        "zonaHoraria": "GMT",
+        "timezone": "Africa/Banjul"
+    },
+    "gn": {
+        "nombre": "Guinea",
+        "zonaHoraria": "GMT",
+        "timezone": "Africa/Conakry"
+    },
+    "gp": {
+        "nombre": "Guadalupe",
+        "zonaHoraria": "AST",
+        "timezone": "America/Guadeloupe"
+    },
+    "gq": {
+        "nombre": "Guinea Ecuatorial",
+        "zonaHoraria": "WAT",
+        "timezone": "Africa/Malabo"
+    },
+    "gr": {
+        "nombre": "Grecia",
+        "zonaHoraria": "EET",
+        "timezone": "Europe/Athens"
+    },"gs": {
+        "nombre": "Islas Georgias del Sur y Sándwich del Sur",
+        "zonaHoraria": "GST",
+        "timezone": "Atlantic/South_Georgia"
+    },
+    "gt": {
+        "nombre": "Guatemala",
+        "zonaHoraria": "CST",
+        "timezone": "America/Guatemala"
+    },
+    "gu": {
+        "nombre": "Guam",
+        "zonaHoraria": "ChST",
+        "timezone": "Pacific/Guam"
+    },
+    "gw": {
+        "nombre": "Guinea-Bisáu",
+        "zonaHoraria": "WAT",
+        "timezone": "Africa/Bissau"
+    },
+    "gy": {
+        "nombre": "Guyana",
+        "zonaHoraria": "GYT",
+        "timezone": "America/Guyana"
+    },
+    "hk": {
+        "nombre": "Hong Kong",
+        "zonaHoraria": "HKT",
+        "timezone": "Asia/Hong_Kong"
+    },
+    "hm": {
+        "nombre": "Islas Heard y McDonald",
+        "zonaHoraria": "HMT",
+        "timezone": "Indian/Kerguelen"
+    },
+    "hn": {
+        "nombre": "Honduras",
+        "zonaHoraria": "CST",
+        "timezone": "America/Tegucigalpa"
+    },
+    "hr": {
+        "nombre": "Croacia",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Zagreb"
+    },
+    "ht": {
+        "nombre": "Haití",
+        "zonaHoraria": "EST",
+        "timezone": "America/Port-au-Prince"
+    },
+    "hu": {
+        "nombre": "Hungría",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Budapest"
+    },
+    "id": {
+        "nombre": "Indonesia",
+        "zonaHoraria": "WIB",
+        "timezone": "Asia/Jakarta"
+    },
+    "ie": {
+        "nombre": "Irlanda",
+        "zonaHoraria": "GMT",
+        "timezone": "Europe/Dublin"
+    },
+    "il": {
+        "nombre": "Israel",
+        "zonaHoraria": "IST",
+        "timezone": "Asia/Jerusalem"
+    },
+    "im": {
+        "nombre": "Isla de Man",
+        "zonaHoraria": "GMT",
+        "timezone": "Europe/Isle_of_Man"
+    },
+    "in": {
+        "nombre": "India",
+        "zonaHoraria": "IST",
+        "timezone": "Asia/Kolkata"
+    },
+    "io": {
+        "nombre": "Territorio Británico del Océano Índico",
+        "zonaHoraria": "IOT",
+        "timezone": "Indian/Chagos"
+    },
+    "iq": {
+        "nombre": "Irak",
+        "zonaHoraria": "AST",
+        "timezone": "Asia/Baghdad"
+    },
+    "ir": {
+        "nombre": "Irán",
+        "zonaHoraria": "IRST",
+        "timezone": "Asia/Tehran"
+    },
+    "is": {
+        "nombre": "Islandia",
+        "zonaHoraria": "GMT",
+        "timezone": "Atlantic/Reykjavik"
+    },
+    "it": {
+        "nombre": "Italia",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Rome"
+    },
+    "je": {
+        "nombre": "Jersey",
+        "zonaHoraria": "GMT",
+        "timezone": "Europe/Jersey"
+    },
+    "jm": {
+        "nombre": "Jamaica",
+        "zonaHoraria": "EST",
+        "timezone": "America/Jamaica"
+    },
+    "jo": {
+        "nombre": "Jordania",
+        "zonaHoraria": "EET",
+        "timezone": "Asia/Amman"
+    },
+    "jp": {
+        "nombre": "Japón",
+        "zonaHoraria": "JST",
+        "timezone": "Asia/Tokyo"
+    },
+    "ke": {
+        "nombre": "Kenia",
+        "zonaHoraria": "EAT",
+        "timezone": "Africa/Nairobi"
+    },
+    "kg": {
+        "nombre": "Kirguistán",
+        "zonaHoraria": "KGT",
+        "timezone": "Asia/Bishkek"
+    },
+    "kh": {
+        "nombre": "Camboya",
+        "zonaHoraria": "ICT",
+        "timezone": "Asia/Phnom_Penh"
+    },
+    "ki": {
+        "nombre": "Kiribati",
+        "zonaHoraria": "GILT",
+        "timezone": "Pacific/Tarawa"
+    },
+    "km": {
+        "nombre": "Comoras",
+        "zonaHoraria": "EAT",
+        "timezone": "Indian/Comoro"
+    },
+    "kn": {
+        "nombre": "San Cristóbal y Nieves",
+        "zonaHoraria": "AST",
+        "timezone": "America/St_Kitts"
+    },
+    "kp": {
+        "nombre": "Corea del Norte",
+        "zonaHoraria": "KST",
+        "timezone": "Asia/Pyongyang"
+    },
+    "kr": {
+        "nombre": "Corea del Sur",
+        "zonaHoraria": "KST",
+        "timezone": "Asia/Seoul"
+    },
+    "kw": {
+        "nombre": "Kuwait",
+        "zonaHoraria": "AST",
+        "timezone": "Asia/Kuwait"
+    },
+    "ky": {
+        "nombre": "Islas Caimán",
+        "zonaHoraria": "EST",
+        "timezone": "America/Cayman"
+    },
+    "kz": {
+        "nombre": "Kazajistán",
+        "zonaHoraria": "ALMT",
+        "timezone": "Asia/Almaty"
+    },
+    "la": {
+        "nombre": "Laos",
+        "zonaHoraria": "ICT",
+        "timezone": "Asia/Vientiane"
+    },"lb": {
+        "nombre": "Líbano",
+        "zonaHoraria": "EET",
+        "timezone": "Asia/Beirut"
+    },
+    "lc": {
+        "nombre": "Santa Lucía",
+        "zonaHoraria": "AST",
+        "timezone": "America/St_Lucia"
+    },
+    "li": {
+        "nombre": "Liechtenstein",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Vaduz"
+    },
+    "lk": {
+        "nombre": "Sri Lanka",
+        "zonaHoraria": "IST",
+        "timezone": "Asia/Colombo"
+    },
+    "lr": {
+        "nombre": "Liberia",
+        "zonaHoraria": "GMT",
+        "timezone": "Africa/Monrovia"
+    },
+    "ls": {
+        "nombre": "Lesoto",
+        "zonaHoraria": "SAST",
+        "timezone": "Africa/Maseru"
+    },
+    "lt": {
+        "nombre": "Lituania",
+        "zonaHoraria": "EET",
+        "timezone": "Europe/Vilnius"
+    },
+    "lu": {
+        "nombre": "Luxemburgo",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Luxembourg"
+    },
+    "lv": {
+        "nombre": "Letonia",
+        "zonaHoraria": "EET",
+        "timezone": "Europe/Riga"
+    },
+    "ly": {
+        "nombre": "Libia",
+        "zonaHoraria": "EET",
+        "timezone": "Africa/Tripoli"
+    },
+    "ma": {
+        "nombre": "Marruecos",
+        "zonaHoraria": "WET",
+        "timezone": "Africa/Casablanca"
+    },
+    "mc": {
+        "nombre": "Mónaco",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Monaco"
+    },
+    "md": {
+        "nombre": "Moldavia",
+        "zonaHoraria": "EET",
+        "timezone": "Europe/Chisinau"
+    },
+    "me": {
+        "nombre": "Montenegro",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Podgorica"
+    },
+    "mf": {
+        "nombre": "San Martín (Francia)",
+        "zonaHoraria": "AST",
+        "timezone": "America/Marigot"
+    },
+    "mg": {
+        "nombre": "Madagascar",
+        "zonaHoraria": "EAT",
+        "timezone": "Indian/Antananarivo"
+    },
+    "mh": {
+        "nombre": "Islas Marshall",
+        "zonaHoraria": "MHT",
+        "timezone": "Pacific/Majuro"
+    },
+    "mk": {
+        "nombre": "Macedonia del Norte",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Skopje"
+    },
+    "ml": {
+        "nombre": "Malí",
+        "zonaHoraria": "GMT",
+        "timezone": "Africa/Bamako"
+    }, "mm": {
+        "nombre": "Myanmar",
+        "zonaHoraria": "MMT",
+        "timezone": "Asia/Yangon"
+    },
+    "mn": {
+        "nombre": "Mongolia",
+        "zonaHoraria": "ULAT",
+        "timezone": "Asia/Ulaanbaatar"
+    },
+    "mo": {
+        "nombre": "Macao",
+        "zonaHoraria": "CST",
+        "timezone": "Asia/Macau"
+    },
+    "mp": {
+        "nombre": "Islas Marianas del Norte",
+        "zonaHoraria": "ChST",
+        "timezone": "Pacific/Saipan"
+    },
+    "mq": {
+        "nombre": "Martinica",
+        "zonaHoraria": "AST",
+        "timezone": "America/Martinique"
+    },
+    "mr": {
+        "nombre": "Mauritania",
+        "zonaHoraria": "GMT",
+        "timezone": "Africa/Nouakchott"
+    },
+    "ms": {
+        "nombre": "Montserrat",
+        "zonaHoraria": "AST",
+        "timezone": "America/Montserrat"
+    },
+    "mt": {
+        "nombre": "Malta",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Malta"
+    },
+    "mu": {
+        "nombre": "Mauricio",
+        "zonaHoraria": "MUT",
+        "timezone": "Indian/Mauritius"
+    },
+    "mv": {
+        "nombre": "Maldivas",
+        "zonaHoraria": "MVT",
+        "timezone": "Indian/Maldives"
+    },
+    "mw": {
+        "nombre": "Malawi",
+        "zonaHoraria": "CAT",
+        "timezone": "Africa/Blantyre"
+    },
+    "mx": {
+        "nombre": "México",
+        "zonaHoraria": "CST",
+        "timezone": "America/Mexico_City"
+    },
+    "my": {
+        "nombre": "Malasia",
+        "zonaHoraria": "MYT",
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "mz": {
+        "nombre": "Mozambique",
+        "zonaHoraria": "CAT",
+        "timezone": "Africa/Maputo"
+    },
+    "na": {
+        "nombre": "Namibia",
+        "zonaHoraria": "CAT",
+        "timezone": "Africa/Windhoek"
+    },
+    "nc": {
+        "nombre": "Nueva Caledonia",
+        "zonaHoraria": "NCT",
+        "timezone": "Pacific/Noumea"
+    },
+    "ne": {
+        "nombre": "Níger",
+        "zonaHoraria": "WAT",
+        "timezone": "Africa/Niamey"
+    },
+    "nf": {
+        "nombre": "Isla Norfolk",
+        "zonaHoraria": "NFT",
+        "timezone": "Pacific/Norfolk"
+    },
+    "ng": {
+        "nombre": "Nigeria",
+        "zonaHoraria": "WAT",
+        "timezone": "Africa/Lagos"
+    },"ni": {
+        "nombre": "Nicaragua",
+        "zonaHoraria": "CST",
+        "timezone": "America/Managua"
+    },
+    "nl": {
+        "nombre": "Países Bajos",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Amsterdam"
+    },
+    "no": {
+        "nombre": "Noruega",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Oslo"
+    },
+    "np": {
+        "nombre": "Nepal",
+        "zonaHoraria": "NPT",
+        "timezone": "Asia/Kathmandu"
+    },
+    "nr": {
+        "nombre": "Nauru",
+        "zonaHoraria": "NRT",
+        "timezone": "Pacific/Nauru"
+    },
+    "nu": {
+        "nombre": "Niue",
+        "zonaHoraria": "NUT",
+        "timezone": "Pacific/Niue"
+    },
+    "nz": {
+        "nombre": "Nueva Zelanda",
+        "zonaHoraria": "NZST",
+        "timezone": "Pacific/Auckland"
+    },
+    "om": {
+        "nombre": "Omán",
+        "zonaHoraria": "GST",
+        "timezone": "Asia/Muscat"
+    },
+    "pa": {
+        "nombre": "Panamá",
+        "zonaHoraria": "EST",
+        "timezone": "America/Panama"
+    },
+    "pe": {
+        "nombre": "Perú",
+        "zonaHoraria": "PET",
+        "timezone": "America/Lima"
+    },
+    "pf": {
+        "nombre": "Polinesia Francesa",
+        "zonaHoraria": "TAHT",
+        "timezone": "Pacific/Tahiti"
+    },
+    "pg": {
+        "nombre": "Papúa Nueva Guinea",
+        "zonaHoraria": "PGT",
+        "timezone": "Pacific/Port_Moresby"
+    },
+    "ph": {
+        "nombre": "Filipinas",
+        "zonaHoraria": "PHT",
+        "timezone": "Asia/Manila"
+    },
+    "pk": {
+        "nombre": "Pakistán",
+        "zonaHoraria": "PKT",
+        "timezone": "Asia/Karachi"
+    },
+    "pl": {
+        "nombre": "Polonia",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Warsaw"
+    },
+    "pm": {
+        "nombre": "San Pedro y Miquelón",
+        "zonaHoraria": "PMST",
+        "timezone": "America/Miquelon"
+    },
+    "pn": {
+        "nombre": "Islas Pitcairn",
+        "zonaHoraria": "PST",
+        "timezone": "Pacific/Pitcairn"
+    },
+    "pr": {
+        "nombre": "Puerto Rico",
+        "zonaHoraria": "AST",
+        "timezone": "America/Puerto_Rico"
+    },
+    "ps": {
+        "nombre": "Palestina",
+        "zonaHoraria": "EET",
+        "timezone": "Asia/Gaza"
+    },"pt": {
+        "nombre": "Portugal",
+        "zonaHoraria": "WET",
+        "timezone": "Europe/Lisbon"
+    },
+    "pw": {
+        "nombre": "Palaos",
+        "zonaHoraria": "PWT",
+        "timezone": "Pacific/Palau"
+    },
+    "py": {
+        "nombre": "Paraguay",
+        "zonaHoraria": "PYT",
+        "timezone": "America/Asuncion"
+    },
+    "qa": {
+        "nombre": "Catar",
+        "zonaHoraria": "AST",
+        "timezone": "Asia/Qatar"
+    },
+    "re": {
+        "nombre": "Reunión",
+        "zonaHoraria": "RET",
+        "timezone": "Indian/Reunion"
+    },
+    "ro": {
+        "nombre": "Rumania",
+        "zonaHoraria": "EET",
+        "timezone": "Europe/Bucharest"
+    },
+    "rs": {
+        "nombre": "Serbia",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Belgrade"
+    },
+    "ru": {
+        "nombre": "Rusia",
+        "zonaHoraria": "MSK",
+        "timezone": "Europe/Moscow"
+    },
+    "rw": {
+        "nombre": "Ruanda",
+        "zonaHoraria": "CAT",
+        "timezone": "Africa/Kigali"
+    },
+    "sa": {
+        "nombre": "Arabia Saudita",
+        "zonaHoraria": "AST",
+        "timezone": "Asia/Riyadh"
+    },
+    "sb": {
+        "nombre": "Islas Salomón",
+        "zonaHoraria": "SBT",
+        "timezone": "Pacific/Guadalcanal"
+    },
+    "sc": {
+        "nombre": "Seychelles",
+        "zonaHoraria": "SCT",
+        "timezone": "Indian/Mahe"
+    },
+    "sd": {
+        "nombre": "Sudán",
+        "zonaHoraria": "CAT",
+        "timezone": "Africa/Khartoum"
+    },
+    "se": {
+        "nombre": "Suecia",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Stockholm"
+    },
+    "sg": {
+        "nombre": "Singapur",
+        "zonaHoraria": "SGT",
+        "timezone": "Asia/Singapore"
+    },
+    "sh": {
+        "nombre": "Santa Elena, Ascensión y Tristán de Acuña",
+        "zonaHoraria": "GMT",
+        "timezone": "Atlantic/St_Helena"
+    },
+    "si": {
+        "nombre": "Eslovenia",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Ljubljana"
+    },
+    "sj": {
+        "nombre": "Svalbard y Jan Mayen",
+        "zonaHoraria": "CET",
+        "timezone": "Arctic/Longyearbyen"
+    },
+    "sk": {
+        "nombre": "Eslovaquia",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Bratislava"
+    },"sl": {
+        "nombre": "Sierra Leona",
+        "zonaHoraria": "GMT",
+        "timezone": "Africa/Freetown"
+    },
+    "sm": {
+        "nombre": "San Marino",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/San_Marino"
+    },
+    "sn": {
+        "nombre": "Senegal",
+        "zonaHoraria": "GMT",
+        "timezone": "Africa/Dakar"
+    },
+    "so": {
+        "nombre": "Somalia",
+        "zonaHoraria": "EAT",
+        "timezone": "Africa/Mogadishu"
+    },
+    "sr": {
+        "nombre": "Surinam",
+        "zonaHoraria": "SRT",
+        "timezone": "America/Paramaribo"
+    },
+    "ss": {
+        "nombre": "Sudán del Sur",
+        "zonaHoraria": "EAT",
+        "timezone": "Africa/Juba"
+    },
+    "st": {
+        "nombre": "Santo Tomé y Príncipe",
+        "zonaHoraria": "GMT",
+        "timezone": "Africa/Sao_Tome"
+    },
+    "sv": {
+        "nombre": "El Salvador",
+        "zonaHoraria": "CST",
+        "timezone": "America/El_Salvador"
+    },
+    "sx": {
+        "nombre": "San Martín (Países Bajos)",
+        "zonaHoraria": "AST",
+        "timezone": "America/Lower_Princes"
+    },
+    "sy": {
+        "nombre": "Siria",
+        "zonaHoraria": "EET",
+        "timezone": "Asia/Damascus"
+    },
+    "sz": {
+        "nombre": "Suazilandia",
+        "zonaHoraria": "SAST",
+        "timezone": "Africa/Mbabane"
+    },
+    "tc": {
+        "nombre": "Islas Turcas y Caicos",
+        "zonaHoraria": "AST",
+        "timezone": "America/Grand_Turk"
+    },
+    "td": {
+        "nombre": "Chad",
+        "zonaHoraria": "WAT",
+        "timezone": "Africa/Ndjamena"
+    },
+    "tf": {
+        "nombre": "Tierras Australes y Antárticas Francesas",
+        "zonaHoraria": "TFT",
+        "timezone": "Indian/Kerguelen"
+    },
+    "tg": {
+        "nombre": "Togo",
+        "zonaHoraria": "GMT",
+        "timezone": "Africa/Lome"
+    },
+    "th": {
+        "nombre": "Tailandia",
+        "zonaHoraria": "ICT",
+        "timezone": "Asia/Bangkok"
+    },
+    "tj": {
+        "nombre": "Tayikistán",
+        "zonaHoraria": "TJT",
+        "timezone": "Asia/Dushanbe"
+    },
+    "tk": {
+        "nombre": "Tokelau",
+        "zonaHoraria": "TKT",
+        "timezone": "Pacific/Fakaofo"
+    },
+    "tl": {
+        "nombre": "Timor Oriental",
+        "zonaHoraria": "TLT",
+        "timezone": "Asia/Dili"
+    },"tm": {
+        "nombre": "Turkmenistán",
+        "zonaHoraria": "TMT",
+        "timezone": "Asia/Ashgabat"
+    },
+    "tn": {
+        "nombre": "Túnez",
+        "zonaHoraria": "CET",
+        "timezone": "Africa/Tunis"
+    },
+    "to": {
+        "nombre": "Tonga",
+        "zonaHoraria": "TOT",
+        "timezone": "Pacific/Tongatapu"
+    },
+    "tr": {
+        "nombre": "Turquía",
+        "zonaHoraria": "TRT",
+        "timezone": "Europe/Istanbul"
+    },
+    "tt": {
+        "nombre": "Trinidad y Tobago",
+        "zonaHoraria": "AST",
+        "timezone": "America/Port_of_Spain"
+    },
+    "tv": {
+        "nombre": "Tuvalu",
+        "zonaHoraria": "TVT",
+        "timezone": "Pacific/Funafuti"
+    },
+    "tw": {
+        "nombre": "Taiwán",
+        "zonaHoraria": "CST",
+        "timezone": "Asia/Taipei"
+    },
+    "tz": {
+        "nombre": "Tanzania",
+        "zonaHoraria": "EAT",
+        "timezone": "Africa/Dar_es_Salaam"
+    },
+    "ua": {
+        "nombre": "Ucrania",
+        "zonaHoraria": "EET",
+        "timezone": "Europe/Kiev"
+    },
+    "ug": {
+        "nombre": "Uganda",
+        "zonaHoraria": "EAT",
+        "timezone": "Africa/Kampala"
+    },
+    "um": {
+        "nombre": "Islas Ultramarinas Menores de los Estados Unidos",
+        "zonaHoraria": "SST",
+        "timezone": "Pacific/Midway"
+    },
+    "un": {
+        "nombre": "Organización de las Naciones Unidas",
+        "zonaHoraria": "UTC",
+        "timezone": "UTC"
+    },
+    "us": {
+        "nombre": "Estados Unidos",
+        "zonaHoraria": "VAR",
+        "timezone": "America/New_York"
+    },
+    "uy": {
+        "nombre": "Uruguay",
+        "zonaHoraria": "UYT",
+        "timezone": "America/Montevideo"
+    },
+    "uz": {
+        "nombre": "Uzbekistán",
+        "zonaHoraria": "UZT",
+        "timezone": "Asia/Tashkent"
+    },
+    "va": {
+        "nombre": "Ciudad del Vaticano",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Vatican"
+    },"vc": {
+        "nombre": "San Vicente y las Granadinas",
+        "zonaHoraria": "AST",
+        "timezone": "America/St_Vincent"
+    },
+    "ve": {
+        "nombre": "Venezuela",
+        "zonaHoraria": "VET",
+        "timezone": "America/Caracas"
+    },
+    "vg": {
+        "nombre": "Islas Vírgenes Británicas",
+        "zonaHoraria": "AST",
+        "timezone": "America/Tortola"
+    },
+    "vi": {
+        "nombre": "Islas Vírgenes de los Estados Unidos",
+        "zonaHoraria": "AST",
+        "timezone": "America/St_Thomas"
+    },
+    "vn": {
+        "nombre": "Vietnam",
+        "zonaHoraria": "ICT",
+        "timezone": "Asia/Ho_Chi_Minh"
+    },
+    "vu": {
+        "nombre": "Vanuatu",
+        "zonaHoraria": "VUT",
+        "timezone": "Pacific/Efate"
+    },
+    "wf": {
+        "nombre": "Wallis y Futuna",
+        "zonaHoraria": "WFT",
+        "timezone": "Pacific/Wallis"
+    },
+    "ws": {
+        "nombre": "Samoa",
+        "zonaHoraria": "WST",
+        "timezone": "Pacific/Apia"
+    },
+    "xk": {
+        "nombre": "Kosovo",
+        "zonaHoraria": "CET",
+        "timezone": "Europe/Belgrade"
+    },
+    "ye": {
+        "nombre": "Yemen",
+        "zonaHoraria": "AST",
+        "timezone": "Asia/Aden"
+    },
+    "yt": {
+        "nombre": "Mayotte",
+        "zonaHoraria": "EAT",
+        "timezone": "Indian/Mayotte"
+    },
+    "za": {
+        "nombre": "Sudáfrica",
+        "zonaHoraria": "SAST",
+        "timezone": "Africa/Johannesburg"
+    },
+    "zm": {
+        "nombre": "Zambia",
+        "zonaHoraria": "CAT",
+        "timezone": "Africa/Lusaka"
+    },
+    "zw": {
+        "nombre": "Zimbabue",
+        "zonaHoraria": "CAT",
+        "timezone": "Africa/Harare"
+    }
+}

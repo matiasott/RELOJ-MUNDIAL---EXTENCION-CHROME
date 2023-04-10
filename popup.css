@@ -1,0 +1,71 @@
+body {
+  width: 320px;
+  height: 300px;
+  background-color: #222;
+  font-family: 'Helvetica', sans-serif;
+  margin: 3px;
+  padding: 0;
+  border: 8px inset #0B98D9;
+  border-image: linear-gradient(to bottom right, #0B98D9, #FFF) 1;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+h1 {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  color: #FFF;
+}
+
+.mb-4, .my-4{
+  margin-bottom: 5px!important;
+}
+
+.mt-5, .my-5{
+  margin-top: 10px!important;
+}
+
+select {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.form-control{
+  color: #0B98D9;
+  background-color: #444;
+  border: 1px solid #0B98D9;
+}
+
+img {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+/* Estilos para el contenedor del reloj */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Estilos para el título "LA HORA ES:" */
+.container h1:first-child {
+  font-size: 24px;
+  color: #0B98D9;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+/* Estilos para la hora actual */
+#hora-actual {
+  font-size: 48px;
+  color: #0B98D9;
+  text-align: center;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
