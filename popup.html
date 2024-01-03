@@ -10,12 +10,19 @@
 <body>
     <div id="popup" class="container mt-5">
         <div id="popup-content" class="container">
-            <h1 class="text-center mb-4">HORA MUNDIAL EN:</h1>
+            <h1 class="text-center mb-4">HORA EN:</h1>
             <div class="form-group">
                 <select id="country-select" class="form-control"></select>
+                <button id="agregarFavorito" class="btn btn-primary btn-sm" title="Agregar a favoritos">+</button>
             </div>
+            
             <img id="bandera-img" src="" alt="" class="mx-auto d-block mb-4">
             <p id="hora-actual" class="text-center">00:00:00</p>
+            <p class="favoritotitulo">Favoritos:</p>
+            <div id="favoritos-container" class="mt-3"></div>
+            <button id="editarFavoritos" class="btn btn-info mt-3">
+                <span id="editarIcono">✎</span>
+            </button>
         </div>
     </div>
     <script src="popup.js"></script>

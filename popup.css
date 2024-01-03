@@ -1,6 +1,6 @@
 body {
   width: 320px;
-  height: 300px;
+  height: 550px;
   background-color: #222;
   font-family: 'Helvetica', sans-serif;
   margin: 3px;
@@ -31,6 +31,11 @@ h1 {
 select {
   margin-top: 5px;
   margin-bottom: 5px;
+}
+
+select option {
+  /* Establece el ancho de las opciones */
+  width: 150px;
 }
 
 .form-control{
@@ -68,4 +73,62 @@ img {
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
   margin-top: 5px;
   margin-bottom: 5px;
+}
+
+.btn {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#agregarFavorito, #eliminarFavorito {
+  margin-left: 5px;
+}
+
+/* Estilos para las banderas y botones de favoritos */
+.favorito-item {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.favorito-item button {
+  font-size: 10px; /* Tamaño de fuente para los botones */
+}
+
+.favorito-item img {
+  width: 30px; /* Tamaño de las banderas */
+  height: 20px;
+  margin-right: 5px;
+}
+
+/* Estilos para los botones de eliminar */
+.btn-danger {
+  font-size: 8px; /* Tamaño de fuente para los botones de eliminar */
+  padding: 2px 4px; /* Espaciado interno de los botones de eliminar */
+  margin-top: 5px; /* Espaciado superior de los botones de eliminar */
+}
+
+
+/* Estilos para el diseño del formulario */
+.form-group {
+  display: flex;
+  align-items: center;
+}
+
+/* Estilos para el botón de agregar a favoritos */
+#agregarFavorito {
+  margin-left: 10px; /* Espacio entre el select y el botón */
+}
+
+#agregarFavorito:hover {
+  background-color: #5bc0de; /* Color de fondo al pasar el ratón */
+  color: #fff; /* Color de texto al pasar el ratón */
+}
+
+.favoritotitulo{
+  margin: 0px;
+  color: #0B98D9;
+}
+
+.favoritos-container{
+  margin-top: 2px;
 }
