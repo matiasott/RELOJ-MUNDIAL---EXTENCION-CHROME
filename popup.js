@@ -55,6 +55,7 @@ fetch('json/data.json')
             option.value = key;
             option.text = data[key];
             option.innerHTML = `${data[key]}`;
+            option.setAttribute('data-translate', data[key]);
             selector.add(option);
         });
 
@@ -149,13 +150,14 @@ function cargarFavoritos() {
         const div = document.createElement('div');
         div.classList.add('favorito-item');
 
-        // Cambiar la bandera de un <img> a un <button>
+        const banderaContainer = document.createElement('div');
+        banderaContainer.classList.add('bandera-container');
+
         const banderaBtn = document.createElement('button');
-        banderaBtn.classList.add('btn', 'btn-link', 'p-0');
+        banderaBtn.classList.add('btn', 'btn-link', 'p-0', 'bandera-btn');
         banderaBtn.style.cursor = 'pointer';
         banderaBtn.addEventListener('click', () => {
-            // Seleccionar el país en el select y actualizar la hora
-            selector.value = favorito;  // Utilizar el selector en lugar del paisSelect
+            selector.value = favorito;
             generaBandera();
         });
 
@@ -163,32 +165,27 @@ function cargarFavoritos() {
         banderaImg.src = `https://flagcdn.com/48x36/${favorito}.png`;
         banderaImg.alt = favorito;
 
-        // Añadir la banderaImg al botón
         banderaBtn.appendChild(banderaImg);
+        banderaContainer.appendChild(banderaBtn);
 
-        
-
-        // Añadir los botones al contenedor de favoritos
-        div.appendChild(banderaBtn);
-        favoritosContainer.appendChild(div);
-
-        // Crear un botón para eliminar el favorito
         const eliminarBtn = document.createElement('button');
-        eliminarBtn.classList.add('btn', 'btn-danger', 'btn-sm');
+        eliminarBtn.classList.add('btn', 'btn-danger', 'btn-sm', 'eliminar-btn', 'bandera-btn');
         eliminarBtn.textContent = '-';
-        eliminarBtn.title = 'Eliminar de favoritos'; // Agregar el título
+        eliminarBtn.title = 'Eliminar de favoritos';
+        eliminarBtn.setAttribute('data-translate', 'btn_eliminar_favorito');
+
         eliminarBtn.addEventListener('click', () => eliminarFavorito(favorito));
 
-        // Añadir el botón de eliminar al div
-        div.appendChild(eliminarBtn);
+        banderaContainer.appendChild(eliminarBtn);
+        div.appendChild(banderaContainer);
 
-
+        favoritosContainer.appendChild(div);
     });
 
-    // Ocultar o mostrar botones de eliminar según el modo de edición
-    const botonesEliminar = document.querySelectorAll('.btn-danger');
+    const botonesEliminar = document.querySelectorAll('.eliminar-btn');
     botonesEliminar.forEach(btn => btn.style.display = modoEdicion ? 'block' : 'none');
 }
+
 
 let modoEdicion = false;
 
@@ -201,6 +198,16 @@ function toggleEdicion() {
     // Cambiar el contenido del botón entre "✎" y "✔"
     const editarIcono = document.getElementById('editarIcono');
     editarIcono.textContent = modoEdicion ? '✔' : '✎';
+
+    if (editarIcono.classList.contains("✔")) {
+        // Cambiar a editar
+        editarIcono.setAttribute("data-translate", "editar");
+        editarIcono.setAttribute("title", "Editar favoritos");
+    } else {
+        // Cambiar a confirmar
+        editarIcono.setAttribute("data-translate", "confirmar");
+        editarIcono.setAttribute("title", "Confirmar");
+    }
 }
 
 document.getElementById('agregarFavorito').addEventListener('click', agregarFavorito);
@@ -210,3 +217,43 @@ cargarFavoritos();
 
 
 
+let idiomaActual = 'es';
+
+function cambiarIdioma(idioma) {
+    idiomaActual = idioma;
+
+    // Llama a la función para cargar las traducciones
+    cargarTraducciones();
+}
+
+// Función para cargar las traducciones según el idioma actual
+function cargarTraducciones() {
+    fetch('json/translations.json')
+        .then(response => response.json())
+        .then(translations => aplicarTraducciones(translations[idiomaActual]))
+        .catch(error => console.error('Error al cargar las traducciones:', error));
+}
+
+// Función para aplicar las traducciones a los elementos con data-translate
+function aplicarTraducciones(translationObject) {
+    const elementosTraducir = document.querySelectorAll('[data-translate]');
+
+    elementosTraducir.forEach(elemento => {
+        const claveTraduccion = elemento.getAttribute('data-translate');
+        if (claveTraduccion) {
+            if (elemento.hasAttribute('title')) {
+                elemento.title = translationObject[claveTraduccion];
+            } else {
+                elemento.textContent = translationObject[claveTraduccion];
+            }
+        }
+    });
+}
+
+cargarTraducciones();
+
+
+const languageSelect = document.getElementById('language-select');
+languageSelect.addEventListener('change', function () {
+    cambiarIdioma(this.value);
+});

@@ -1,6 +1,6 @@
 body {
   width: 320px;
-  height: 550px;
+  height: auto;
   background-color: #222;
   font-family: 'Helvetica', sans-serif;
   margin: 3px;
@@ -55,6 +55,7 @@ img {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin-bottom: 10px;
 }
 
 /* Estilos para el título "LA HORA ES:" */
@@ -132,3 +133,31 @@ img {
 .favoritos-container{
   margin-top: 2px;
 }
+
+.btn-primary{
+  background-color:#0B98D9;
+}
+
+.bandera-container {
+  display: flex;  /* Utilizar flexbox para alinear los elementos en la misma línea */
+  align-items: center;  /* Alinear verticalmente al centro */
+}
+
+.bandera-btn, .eliminar-btn {
+  margin-right: 0px;  /* Ajustar el margen entre los botones según sea necesario */
+}
+
+#language-select {
+  width: 50px; /* Puedes ajustar este valor según tus necesidades */
+  font-size: 10px; /* Puedes ajustar este valor según tus necesidades */
+  margin: 1px;
+  padding: 0px;
+  align-items: center;
+}
+
+.float-right {
+  float: right;
+  margin-top: 10px; 
+  margin-right: 5px;
+}
+
